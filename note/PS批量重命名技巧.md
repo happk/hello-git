@@ -31,3 +31,10 @@ PS與CMD相異，多有不互通的語法。例如PS可以使用**pwd**獲取目
 
 ---
 **Rename-Item** 重命名的主體
+
+## 參考資料
+[大量自動修改檔名教學與範例](https://officeguide.cc/batch-rename-multiple-files-tutorial-examples/)<br>
+[如何大量更改檔名 - iT 邦幫忙](https://ithelp.ithome.com.tw/questions/10047108)<br>
+[PowerShell - replace names of all directiories and files in PS - Stack Overflow](https://stackoverflow.com/questions/8518518/replace-names-of-all-directiories-and-files-in-ps)
+--講道理這個答主雖然答案正確，但解釋的理由好怪啊<br>
+[正規表達式 - JavaScript | MDN](https://developer.mozilla.org/zh-TW/docs/Web/JavaScript/Guide/Regular_Expressions)
